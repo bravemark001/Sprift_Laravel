@@ -24,6 +24,6 @@
     "vue-template-compiler": "^2.5.21"
   },
   "dependencies": {
-    "xlsx": "^0.14.2"
+    "xlsx": "^0.17.0"
   }
 }
